@@ -1,0 +1,57 @@
+syntax = "proto3";
+package m.studyduniya.com.proto;
+
+message FullProto{
+    repeated CourseModelProto courses = 1;
+}
+
+message CourseModelProto {
+    int32 courseID = 1;
+    string courseName = 2;
+    repeated SubjectModelProto subjects = 3;
+}
+
+message SubjectModelProto {
+    int32 subjectID = 1;
+    string subjectName = 2;
+    repeated TopicModelProto topics = 3;
+}
+
+message TopicModelProto {
+    int32 topicID = 1;
+    string topicName = 2;
+    repeated VideosModelProto videos = 3;
+    repeated EbooksModelProto ebooks = 4;
+    repeated TestModelProto tests = 5;
+}
+
+message VideosModelProto {
+    string videoUID = 1;
+    string videoName = 2;
+    string videoDescription = 3;
+    string videoURL = 4;
+}
+
+message EbooksModelProto {
+    string ebookUID = 1;
+    string ebookName = 2;
+    string ebookDescription = 3;
+    string ebookURL = 4;
+    string ebookThumbnailUID = 5;
+}
+
+message TestModelProto{
+	string testUID = 1;
+	string testName = 2;
+	string testDescription = 3;
+	repeated MCQsModelProto mcqs = 4;
+}
+
+message MCQsModelProto {
+    string mcqUID = 1;
+    bool isMcqSingleCorrect = 2;
+    string mcqQuestion = 3;
+    repeated string mcqOptions = 4;
+    repeated bool mcqAnswer = 5 [packed = true];
+    string mcqSolution = 6;
+}
