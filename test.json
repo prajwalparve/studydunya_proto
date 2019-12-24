@@ -1,0 +1,2727 @@
+﻿{
+  "courses": [
+    {
+      "courseID": 1,
+      "coursename": "UPSC",
+      "subjects": [
+        {
+          "subjectID": 1,
+          "subjectname": "History",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Stone Age",
+              "videos": [
+                {
+                  "videoUID": "StA1",
+                  "videoname": "Ancient History Chapter 1-The Stone age (Hindi) | for UPSC/MPSC/STI/PSI",
+                  "videoDescription": "In this video old stone age of ancient history has been covered in most lucid way.",
+                  "videoURL": "tog85hxZauU"
+                },
+                {
+                  "videoUID": "StA2",
+                  "videoname": "History for UPSC || IAS - Pre-History - Lecture 1",
+                  "videoDescription": " ",
+                  "videoURL": "IDy1worBx7w"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "StA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "StA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+		      "tests": [
+                {
+                  "testUID": "StA1",
+                  "testname": "Test-1",
+                  "testDescription": "Digestion and Absorption",
+                  "mcqs": [
+                    {
+                      "mcqUID": "StA1",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "Consider the following statements regarding the basic technological innovations of the Upper Palaeolithic culture:\n\nI. The basic technological innovation of the Upper Palaeolithic period is the method of producing parallel sided blades from a carefully prepared core.\nII. One good core of parallel-sided blades once prepared, can yield many this kind of blades with very little or no further preparation.\nIII. The upper Palaeolithic tools have been found in Rajasthan, parts of the Ganga and Belan valleys, Central and Western India, Gujarat, Andhra Pradesh and Karnataka.\n\nWhich of the following statement(s) is/are correct?",
+                      "mcqOptions": [
+                        "Only I",
+                        "I and II",
+                        "II and III",
+                        "All of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        false,
+                        true
+                      ],
+                      "mcqSolution": "The middle Palaeolithic culture slowly evolved into the Upper Palaeolithic culture. The basic technological innovation of the Upper Palaeolithic period is the method of producing parallel sided blades from a carefully prepared core. One good core of this kind, once prepared, can yield many parallel-sided blades with very little or no further preparation."
+                    },
+                    {
+                      "mcqUID": "StA2",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "The finding of artefacts from which of the following Mesolithic sites shows that the Mesolithic communities were in touch with the people of Harappan Civilisation:",
+                      "mcqOptions": [
+                        " Bagor",
+                        " Langhnaj",
+                        " Both of the above",
+                        " None of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        true,
+                        false
+                      ],
+                      "mcqSolution": "From the sites of Bagor in Rajasthan and also Langhnaj in Gujarat we came to know that these Mesolithic communities were in touch with people of the Harappan and other Chalcolithic cultures and traded various items with them. From Bagor three copper arrowheads, typical of the Harappan Civilization, have been found."
+                    },
+                    {
+                      "mcqUID": "StA3",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "Which of the following Mesolithic site(s) is/are among the most important and extensively studied sites of Mesolithic culture:",
+                      "mcqOptions": [
+                        " Sarai Nahar Rai",
+                        " Chopani Mando",
+                        " Damdama",
+                        " All of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        false,
+                        true
+                      ],
+                      "mcqSolution": "Some of the most important and extensively studied sites of Mesolithic culture are Bagor in Rajasthan, Langhnaj in Gujarat, Sarai Nahar Rai, Chopani Mando, Mahdaha and Damdama in Uttar Pradesh, and Bhimbetka and Adamgarh in Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "testkUID": "StA2",
+                  "testname": "Test-2",
+                  "testDescription": "Concepts for the chapter, Digestion and Absorption.",
+                  "mcqs": [
+                    {
+                      "mcqUID": "StA1",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "Consider the following statements regarding the basic technological innovations of the Upper Palaeolithic culture:\n\nI. The basic technological innovation of the Upper Palaeolithic period is the method of producing parallel sided blades from a carefully prepared core.\nII. One good core of parallel-sided blades once prepared, can yield many this kind of blades with very little or no further preparation.\nIII. The upper Palaeolithic tools have been found in Rajasthan, parts of the Ganga and Belan valleys, Central and Western India, Gujarat, Andhra Pradesh and Karnataka.\n\nWhich of the following statement(s) is/are correct?",
+                      "mcqOptions": [
+                        "Only I",
+                        "I and II",
+                        "II and III",
+                        "All of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        false,
+                        true
+                      ],
+                      "mcqSolution": "The middle Palaeolithic culture slowly evolved into the Upper Palaeolithic culture. The basic technological innovation of the Upper Palaeolithic period is the method of producing parallel sided blades from a carefully prepared core. One good core of this kind, once prepared, can yield many parallel-sided blades with very little or no further preparation."
+                    },
+                    {
+                      "mcqUID": "StA2",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "The finding of artefacts from which of the following Mesolithic sites shows that the Mesolithic communities were in touch with the people of Harappan Civilisation:",
+                      "mcqOptions": [
+                        " Bagor",
+                        " Langhnaj",
+                        " Both of the above",
+                        " None of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        true,
+                        false
+                      ],
+                      "mcqSolution": "From the sites of Bagor in Rajasthan and also Langhnaj in Gujarat we came to know that these Mesolithic communities were in touch with people of the Harappan and other Chalcolithic cultures and traded various items with them. From Bagor three copper arrowheads, typical of the Harappan Civilization, have been found."
+                    },
+                    {
+                      "mcqUID": "StA3",
+                      "isMcqSingleCorrect": true,
+                      "mcquestion": "Which of the following Mesolithic site(s) is/are among the most important and extensively studied sites of Mesolithic culture:",
+                      "mcqOptions": [
+                        " Sarai Nahar Rai",
+                        " Chopani Mando",
+                        " Damdama",
+                        " All of the above"
+                      ],
+                      "mcqAnswer": [
+                        false,
+                        false,
+                        false,
+                        true
+                      ],
+                      "mcqSolution": "Some of the most important and extensively studied sites of Mesolithic culture are Bagor in Rajasthan, Langhnaj in Gujarat, Sarai Nahar Rai, Chopani Mando, Mahdaha and Damdama in Uttar Pradesh, and Bhimbetka and Adamgarh in Madhya Pradesh."
+                    }
+                  ]
+                }
+              ]
+
+            },
+            {
+              "topicID": 2,
+              "topicname": "Indus Valley Civilization",
+              "videos": [
+                {
+                  "videoUID": "IVC2",
+                  "videoname": "History for UPSC || IAS - Indus Valley Civilization - Lecture 2",
+                  "videoDescription": " ",
+                  "videoURL": "xohma58wko0"
+                },
+                {
+                  "videoUID": "IVC2",
+                  "videoname": "Ancient History Chapter 2- Harappan Civilization part 1",
+                  "videoDescription": "In this Video I have discussed about the Harappan Civilization, which is a part of Ancient History in UPSC syllabus. even I have covered Art & Culture part",
+                  "videoURL": "PjaAKalFG1I"
+                },
+                {
+                  "videoUID": "IVC3",
+                  "videoname": "Ancient History Chapter 2- Harappan Civilization part 2",
+                  "videoDescription": "In this Video I have discussed about the Harappan Civilization, which is a part of Ancient History in UPSC syllabus. even I have covered Art & Culture part",
+                  "videoURL": "LPZTySey4A0"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "IVC1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "IVC2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "IVC1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following site is located in Montegomari district of Punjab in Pakistan?",
+                  "mcqOptions": [
+                    "Harappa",
+                    "Mohenjodaro",
+                    "Rangapur",
+                    "Alamgirpur"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Harappa is located in Montegomari."
+                },
+                {
+                  "mcqUID": "IVC2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "What was the main feature of Indus Valley Civilization?",
+                  "mcqOptions": [
+                    " Rural Planning",
+                    " Town Planning",
+                    " Art and Achitecture",
+                    " Administrative System"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Town planning was the main feature of Indus Valley Civilization."
+                },
+                {
+                  "mcqUID": "IVC3",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following was the port town of Indus Valley Civilization?",
+                  "mcqOptions": [
+                    " Rangapur",
+                    " Lothal",
+                    " Dholavira",
+                    " Harappa"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Lothal was the port town of Indus Valley Civilization."
+                }
+              ]
+            },
+            {
+              "topicID": 3,
+              "topicname": "Vedic Civilization",
+              "videos": [
+                {
+                  "videoUID": "VC1",
+                  "videoname": "Vedic Age, History",
+                  "videoDescription": " ",
+                  "videoURL": "-LYioyRKZT0"
+                },
+                {
+                  "videoUID": "VC2",
+                  "videoname": "The Vedic Age from UPSC Perspective",
+                  "videoDescription": "The Vedic Age for UPSC explained by Arpita Sharma for UPSC / SSC",
+                  "videoURL": "EmHy8tL6_VM"
+                },
+                {
+                  "videoUID": "VC3",
+                  "videoname": "History for UPSC || IAS - Vedic Age",
+                  "videoDescription": " ",
+                  "videoURL": "GATGGQMQF9Q"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "VC1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "VC2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "VC1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following was the basic unit of Vedic Society?",
+                  "mcqOptions": [
+                    "Jana",
+                    "Vidath",
+                    "Parivar",
+                    "Sangh"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    true,
+                    false
+                  ],
+                  "mcqSolution": "Parivar is the answer"
+                },
+                {
+                  "mcqUID": "VC2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which river is not mention in Rigveda?",
+                  "mcqOptions": [
+                    " Narmada",
+                    " Sindhu",
+                    " Ganga",
+                    " Yamuna"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Narmada"
+                },
+                {
+                  "mcqUID": "VC3",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "What was the term used to denote the wooden plough by Rigvedic Aryans?",
+                  "mcqOptions": [
+                    " Ayas",
+                    " Langal",
+                    " Kulal",
+                    " Yava"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Langal"
+                },
+                {
+                  "mcqUID": "VC4",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "What did the Vedic people call a Potter?",
+                  "mcqOptions": [
+                    " Vidath",
+                    " Kulal",
+                    " Ayas",
+                    " Langal"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Kulal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 2,
+          "subjectname": "Geography",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Basics of Climatology",
+              "videos": [
+                {
+                  "videoUID": "BoC1",
+                  "videoname": "Climatology: Geography for UPSC CSE/IAS Preparation",
+                  "videoDescription": " ",
+                  "videoURL": "5Tg9Rg3g4vA"
+                },
+                {
+                  "videoUID": "BoC2",
+                  "videoname": "Climatology",
+                  "videoDescription": " ",
+                  "videoURL": "jeg2I8n-Dm0"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoC1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoC2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoC1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "When cold front passes over an area then\n1. temperature decreases.\n2. relative humidity increases.\n3. sky becomes clear.",
+                  "mcqOptions": [
+                    "1 only",
+                    "1 and 2",
+                    "1 and 3",
+                    "1, 2, and 3"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    true,
+                    false
+                  ],
+                  "mcqSolution": "Relative humidity (RH) decreases when cold front passes over an area. Cold fronts are associated with clear sky and weather while warm fronts have clouds and rainfall."
+                },
+                {
+                  "mcqUID": "BoC2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Secondary circulation in atmosphere consists of\n1. polar easterlies\n2. temperate cyclones\n3. mountain winds\n4. monsoon",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 2 and 3",
+                    " 2 and 4",
+                    " 3 only"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    true,
+                    false
+                  ],
+                  "mcqSolution": "Primary circulation – planetary winds, includes polar easterlies. Secondary circulation – cyclones, anticyclones, monsoon etc Tertiary winds – local winds like land and sea breezes, mountain and valley winds etc."
+                }
+              ]
+            },
+            {
+              "topicID": 2,
+              "topicname": "Temperature",
+              "videos": [
+                {
+                  "videoUID": "Tmp1",
+                  "videoname": "Passive Absorption",
+                  "videoDescription": " ",
+                  "videoURL": "I5_yLruJSB0"
+                },
+                {
+                  "videoUID": "Tmp2",
+                  "videoname": "Pancreas",
+                  "videoDescription": ". ",
+                  "videoURL": "7HXhyYMYbBA"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Tmp1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Tmp2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Tmp1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "What is the unit for measuring the amplitude of a sound?",
+                  "mcqOptions": [
+                    "Decibel",
+                    "Coulomb",
+                    "Hum",
+                    "Cycles"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The unit for measuring the amplitude of sound is Decibel."
+                },
+                {
+                  "mcqUID": "Tmp2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Nautical mile is a unit of distance used in",
+                  "mcqOptions": [
+                    " Navigation",
+                    " Road mile ",
+                    " Astronomy",
+                    " Measuring the boundaries of a nation"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Navigation is the unit of distance used for Nautical mile."
+                }
+              ]
+            },
+            {
+              "topicID": 3,
+              "topicname": "Basics of Atmosphere",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 4,
+              "topicname" : "Pressure Belts and Wind System",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 5,
+              "topicname" : "Indian Monsoon",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 6,
+              "topicname" : "Indian Geography",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 7,
+              "topicname" : "Continental Drift Theory",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 8,
+              "topicname" : "Earth's Movements",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 9,
+              "topicname" : "Physical Geography",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 10,
+              "topicname" : "Isostacy",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 11,
+              "topicname" : "Astronomy",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 12,
+              "topicname" : "Resources and Related Industries",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 13,
+              "topicname" : "River Systems",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 14,
+              "topicname" : "Physical Features",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            },
+            {
+              "topicID" : 15,
+              "topicname" : "Population",
+              "videos": [
+                {
+                  "videoUID": "BoA1",
+                  "videoname": "Atmosphere : Geography Notes",
+                  "videoDescription": " ",
+                  "videoURL": "POV7Rf-Qe6w"
+                },
+                {
+                  "videoUID": "BoA2",
+                  "videoname": "Climatology-Atmosphere structure, Aurora",
+                  "videoDescription": " ",
+                  "videoURL": "7e8CS63p6XE"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "BoA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "BoA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "BoA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the following affects atmospheric pressure?",
+                  "mcqOptions": [
+                    "Altitude",
+                    "Temperature",
+                    "Earth rotation",
+                    "All the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "The pressure exerted by air on the surface of the earth is called as atmospheric pressure. The pressure varies from region to region."
+                },
+                {
+                  "mcqUID": "BoA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "The weight of water vapour per unit weight of air is",
+                  "mcqOptions": [
+                    " Specific Humidity",
+                    " Relative Humidity",
+                    " Absolute Humidity",
+                    " None of the above"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Specific humidity is expressed as grams per kg of air. The temperature at which saturation occurs is called dew point. The weight of water vapour per unit weight of air is called specific humidity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 3,
+          "subjectname": "Polity",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "IIP1",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                },
+                {
+                  "videoUID": "IIP2",
+                  "videoname": "Indian Constitution - Complete Course on Indian Polity for UPSC CSE",
+                  "videoDescription": " ",
+                  "videoURL": "vq2Q1_v6TNU"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "IIP1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "IIP2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "IIP1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                },
+                {
+                  "mcqUID": "IIP2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Nautical mile is a unit of distance used in",
+                  "mcqOptions": [
+                    " Navigation",
+                    " Road mile ",
+                    " Astronomy",
+                    " Measuring the boundaries of a nation"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Navigation is the unit of distance used for Nautical mile."
+                }
+              ]
+            },
+            {
+              "topicID": 2,
+              "topicname": "Citizenship",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID": 3,
+              "topicname": "Union And Its Territory",
+              "videos": [
+                {
+                  "videoUID": "UIT1",
+                  "videoname": "Crash Course on Indian Polity - The Union and Its Territory (Hindi) by Abhishek Srivastava",
+                  "videoDescription": "This lesson deals with the The Union and its territories. It also covers the factual details related to it. Must watch for all to understand how the The Union and its territory functions.",
+                  "videoURL": "pzGKftQOl9o"
+                },
+                {
+                  "videoUID": "UIT2",
+                  "videoname": "Indian Polity by Laxmikant | Union and its territory | UPSC - IAS",
+                  "videoDescription": " ",
+                  "videoURL": "lDKHtBfKJWk"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "UIT1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "UIT2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "UIT1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "In which of the following union territory a Council of Ministers is elected?",
+                  "mcqOptions": [
+                    "Delhi",
+                    "Chandigarh",
+                    "Andaman and Nicobar Islands",
+                    "Daman and Diu"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Delhi and Puducherry are the only two union territories where a Council of Ministers is elected."
+                },
+                {
+                  "mcqUID": "UIT2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Who governs the union territory \"Daman and Diu\"?",
+                  "mcqOptions": [
+                    " Deputy Governor",
+                    " Administrator",
+                    " Chief Minister",
+                    "Gujarat High Court"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Administrator"
+                }
+              ]
+            },
+            {
+              "topicID" : 4,
+              "topicname" : "Indian Constitution",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID" : 5,
+              "topicname" : "Pre British India",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID" : 6,
+              "topicname" : "Preamble",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID" : 7,
+              "topicname" : "Fundamental Rights",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID" : 8,
+              "topicname" : "Directive Principles of State Policy",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            },
+            {
+              "topicID" : 9,
+              "topicname" : "Special Features of Indian Constitution",
+              "videos": [
+                {
+                  "videoUID": "Cz1",
+                  "videoname": "(Hindi)Indian Polity by Laxmikant Chapter 6- Citizenship",
+                  "videoDescription": " ",
+                  "videoURL": "wNIrJqh-om4"
+                },
+                {
+                  "videoUID": "Cz2",
+                  "videoname": "Citizenship of India || Ways to acquire and lose || Indian polity for UPSC, SSC CGL, CHSL CPO, CDS",
+                  "videoDescription": ". ",
+                  "videoURL": "ikFRjXsADwY"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "Cz1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "Cz2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "Cz1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements.\n\n    Asylum is the legal protection granted to people in any country who are afraid to return to their home country.\n    Domicile means to stay in a country with the intention of making it his or her permanent home.\n    Expelling an alien is called deportation.\n    Resident is one who resided in the country for certain number of days.\n\nWhich of the above statement is / are correct.",
+                  "mcqOptions": [
+                    " 1 only",
+                    " 1, 2, & 4 only",
+                    " 2 only",
+                    " All of the above"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    false,
+                    false,
+                    true
+                  ],
+                  "mcqSolution": "All of the above"
+                },
+                {
+                  "mcqUID": "Cz2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which of the statement is incorrect.\n\n    The facility of overseas citizenship of India was made available to all the person of Indian origin of any country.\n    Dual citizens do not have voting rights.\n    Neither can they be elected to Public Office nor they eligible for defence job.\n    Dual citizens do not required visa for travel to India.\n",
+                  "mcqOptions": [
+                    " Option 1",
+                    " Option 2",
+                    " Option 3",
+                    " Option 4"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Option 1 is correct."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 4,
+          "subjectname": "Economy",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "National Income and Accounting",
+              "videos": [
+                {
+                  "videoUID": "NIA1",
+                  "videoname": "National Income Accounting - ECONOMY LECTURE FOR IAS",
+                  "videoDescription": "National Income Accounting - GDP, GNP, NDP, National income terms Net foreign factor income, National balance sheet, Expenditure approach, Income approach explained which are the basics of economics for IAS indian economy preparation.",
+                  "videoURL": "wkO21owPOLE"
+                },
+                {
+                  "videoUID": "NIA2",
+                  "videoname": "Unacademy Economics Lecture for IAS: National Income Accounting : Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "vez9egyfRhQ"
+                },
+                {
+                  "videoUID": "NIA3",
+                  "videoname": "Chapter- 2 National Income Accounting | NCERT Class 12 Economics | IAS UPSC CSE",
+                  "videoDescription": " ",
+                  "videoURL": "8dFwTlEDe9k"
+                },
+                {
+                  "videoUID": "NIA4",
+                  "videoname": "Unacademy Economics Lecture for IAS: National Income Accounting : Factor Cost & Market Price",
+                  "videoDescription": " ",
+                  "videoURL": "A6h62e_bWlM"
+                },
+                {
+                  "videoUID": "NIA5",
+                  "videoname": "IAS Questions - Day 34 - National Income Accounting - for UPSC Civil Services - STHAAPNA SERIES",
+                  "videoDescription": " ",
+                  "videoURL": "QTF2ZXoaSVU"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "NIA1",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "NIA2",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "NIA1",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Consider the following statements:\n\n    1. Real GDP is calculated in a way such that the goods and services are evaluated at constant prices.\n\n    2. Nominal GDP is the value of GDP at the current prevailing prices.\n\n    3. The ratio of Real GDP to Nominal is known as Index of prices (GDP Deflator)   ",
+                  "mcqOptions": [
+                    " 1 and 2",
+                    " 2 and 3",
+                    " 1, 2, and 3",
+                    " 1 and 3"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "1 and 2"
+                },
+                {
+                  "mcqUID": "NIA2",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Choose the false statement among the following statements:",
+                  "mcqOptions": [
+                    " Consumer Price Index (CPI) is the index of prices of a given basket of commodities which are bought by the representative consumer.",
+                    " The weights of representative goods are constant in GDP Deflator– but they differ according to production level of each good in CPI.",
+                    " The index for wholesale prices is called Wholesale Price Index (WPI), in USA it is referred to as Producer Price Index (PPI).",
+                    " CPI includes prices of goods consumed by the representative consumer, hence it includes prices of imported goods. GDP deflator does not include prices of imported goods."
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The weights of representative goods are constant in GDP Deflator– but they differ according to production level of each good in CPI."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 5,
+          "subjectname": "International Relations",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "111",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "111",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "111",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 6,
+          "subjectname": "Ethics & Integrity",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "222",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                },
+                {
+                  "videoUID": "2222",
+                  "videoname": "Indian Constitution - Complete Course on Indian Polity for UPSC CSE",
+                  "videoDescription": " ",
+                  "videoURL": "vq2Q1_v6TNU"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "222",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                },
+                {
+                  "ebookUID": "2222",
+                  "ebookname": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookDescription": "An ebook that has all the concepts for the chapter, Digestion and Absorption in an easy to understand manner",
+                  "ebookURL": "Digestion and Absorption - Free Conceptual eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "222",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                },
+                {
+                  "mcqUID": "2222",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Nautical mile is a unit of distance used in",
+                  "mcqOptions": [
+                    " Navigation",
+                    " Road mile ",
+                    " Astronomy",
+                    " Measuring the boundaries of a nation"
+                  ],
+                  "mcqAnswer": [
+                    true,
+                    false,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "Navigation is the unit of distance used for Nautical mile."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID": 7,
+          "subjectname": "Science",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "33",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "33",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "33",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 8,
+          "subjectname" : "Social Justice",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "44",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "44",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "44",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 9,
+          "subjectname" : "Art & Culture",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "55",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "55",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "55",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 10,
+          "subjectname" : "Governance",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "66",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "66",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "66",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 11,
+          "subjectname" : "Internal Security",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "77",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "77",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "77",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 12,
+          "subjectname" : "Environment",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "88",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "88",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "88",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 13,
+          "subjectname" : "Disaster Management",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "99",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "99",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "99",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subjectID" : 14,
+          "subjectname" : "CSAT",
+          "topics": [
+            {
+              "topicID": 1,
+              "topicname": "Introduction to Indian Politics",
+              "videos": [
+                {
+                  "videoUID": "aa",
+                  "videoname": "UPSC Lecture: Indian Polity: Introduction",
+                  "videoDescription": " ",
+                  "videoURL": "CVaxnhNngok"
+                }
+              ],
+              "ebooks": [
+                {
+                  "ebookUID": "aa",
+                  "ebookname": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookDescription": "NCERT book for Digestion and Absorption",
+                  "ebookURL": "Digestion and Absorption - Free NCERT eBook",
+                  "ebookThumbnailUID": "1"
+                }
+              ],
+              "mcqs": [
+                {
+                  "mcqUID": "aa",
+                  "isMcqSingleCorrect": true,
+                  "mcquestion": "Which is the oldest political party in India?",
+                  "mcqOptions": [
+                    " Bharatiya Janata Party",
+                    " Indian National Congress",
+                    " Communist Party of India",
+                    " Bahujan Samaj Party"
+                  ],
+                  "mcqAnswer": [
+                    false,
+                    true,
+                    false,
+                    false
+                  ],
+                  "mcqSolution": "The Indian National Congress was founded by Allan Octavian Hume, in 1885 in Mumbai."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseID": 2,
+      "coursename": "MPSC",
+      "subjects": []
+    }
+  ]
+}
